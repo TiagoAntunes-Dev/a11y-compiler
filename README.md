@@ -68,5 +68,5 @@ Ou integrado a um script de CI:
 - [ ] Definir posicionamento no portfólio, junto com estudos de acessibilidade web já feitos
 ## Status
  
-🚧 Projeto em fase conceitual/inicial — a API e as regras acima ainda estão em desenho..
+🚧 Projeto em fase conceitual/inicial — a API e as regras acima ainda estão em desenho.
  
